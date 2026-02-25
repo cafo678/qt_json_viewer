@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/SimpleFileViewer">F:/Code/QT/SimpleFileViewer/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/SimpleFileViewer</file>
-
-  </qresource>
-</RCC>
